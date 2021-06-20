@@ -1,0 +1,29 @@
+.navbar {
+  /* width: 100%; */
+  background: lightgray;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar h1 {
+  margin: 0;
+  color: white;
+  padding-right: 15px;
+}
+.reload_data_btn button {
+  background: none;
+  padding: none;
+  border: none;
+  color: white;
+  font-size: large;
+  padding: 5px;
+  border: 2px solid white;
+}
+.reload_data_btn button:hover {
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}

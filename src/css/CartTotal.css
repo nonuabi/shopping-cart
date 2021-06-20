@@ -1,0 +1,21 @@
+.cardtotal {
+  padding: 10px;
+}
+.cardtotal h4 {
+  margin: 0;
+}
+.left_container {
+  width: 50%;
+}
+.cardtotal_subheadlines {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.discount_container {
+  margin-top: 1em;
+}
+.orderTotal {
+  background-color: lightgray;
+  padding: 10px;
+}
